@@ -1,10 +1,10 @@
 ObjectJs
 ========
 
-## Instalando com BOWER
+## Instalando com Bower
 
 ```
-bower install https://github.com/lcomino/ObjectJs.git
+bower install ObjectJs
 ```
 ## Adicionando no html
 
