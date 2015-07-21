@@ -24,7 +24,7 @@ var newobject = {
   color : 'Blue'
 }
 
-Object.extend({}, object, newobject); // {color:'Blue', value: 'Default value'}
+objectjs.extend({}, object, newobject); // {color:'Blue', value: 'Default value'}
 ```
 
 _Não afeta os objetos originais, ele retorna um novo objeto!_
