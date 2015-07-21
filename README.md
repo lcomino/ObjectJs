@@ -5,13 +5,11 @@ ObjectJs
 
 ```
 bower install https://github.com/lcomino/ObjectJs.git
-
 ```
 ## Adicionando no html
 
 ```
 <script src="bower_components/ObjectJs/object.js"></script>
-
 ```
 
 ## Utilizando
@@ -27,12 +25,8 @@ var newobject = {
 }
 
 Object.extend({}, object, newobject); // {color:'Blue', value: 'Default value'}
-
-
 ```
 
 _Não afeta os objetos originais, ele retorna um novo objeto!_
 
 Fique a vontate para contribuir com o projeto.
-
-Conheça os projetos que utilizam este:
